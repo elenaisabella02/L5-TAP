@@ -14,5 +14,18 @@ namespace Tap.School.Api.Data
 
         //Exposed Grade to the DB
         public DbSet<Grade> Grades { get; set; }
+
+        //Exercise 11
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            modelBuilder.Entity<Student>(entity =>
+            {
+                entity.Property(e => e.FirstName)
+                    .HasMaxLength(150)
+
+                entity.Property(e => e.LastName)
+                    .IsRequired();
+            });
+        }
     }
 }
