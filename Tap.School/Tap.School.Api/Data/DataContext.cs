@@ -11,5 +11,8 @@ namespace Tap.School.Api.Data
         }
 
         public DbSet<Student> Students { get; set; }
+
+        //Exposed Grade to the DB
+        public DbSet<Grade> Grades { get; set; }
     }
 }

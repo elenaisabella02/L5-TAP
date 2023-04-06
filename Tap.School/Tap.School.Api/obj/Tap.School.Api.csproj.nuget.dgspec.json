@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Isabella\\Source\\Repos\\L5-TAP\\Tap.School\\Tap.School.Api\\Tap.School.Api.csproj": {}
+    "C:\\Facultate anul 2\\Tehnici avansate de programare\\L5\\Tap.School\\Tap.School.Api\\Tap.School.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Isabella\\Source\\Repos\\L5-TAP\\Tap.School\\Tap.School.Api\\Tap.School.Api.csproj": {
+    "C:\\Facultate anul 2\\Tehnici avansate de programare\\L5\\Tap.School\\Tap.School.Api\\Tap.School.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Isabella\\Source\\Repos\\L5-TAP\\Tap.School\\Tap.School.Api\\Tap.School.Api.csproj",
+        "projectUniqueName": "C:\\Facultate anul 2\\Tehnici avansate de programare\\L5\\Tap.School\\Tap.School.Api\\Tap.School.Api.csproj",
         "projectName": "Tap.School.Api",
-        "projectPath": "C:\\Users\\Isabella\\Source\\Repos\\L5-TAP\\Tap.School\\Tap.School.Api\\Tap.School.Api.csproj",
+        "projectPath": "C:\\Facultate anul 2\\Tehnici avansate de programare\\L5\\Tap.School\\Tap.School.Api\\Tap.School.Api.csproj",
         "packagesPath": "C:\\Users\\Isabella\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Isabella\\Source\\Repos\\L5-TAP\\Tap.School\\Tap.School.Api\\obj\\",
+        "outputPath": "C:\\Facultate anul 2\\Tehnici avansate de programare\\L5\\Tap.School\\Tap.School.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
